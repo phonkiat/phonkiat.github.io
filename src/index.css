@@ -1,0 +1,9 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+.alink{
+  color: blue;
+  text-decoration: underline;
+}
